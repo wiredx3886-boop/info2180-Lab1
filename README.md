@@ -1,2 +1,4 @@
-# info2180-Lab1
-Josiah Smith FIrst Lab for course info2180.
+# INFO2180 Lab 1
+
+This is Lab 1 for Josiah Smith
+
